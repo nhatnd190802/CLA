@@ -1,2 +1,2 @@
 # CLA
-Implementation CLA with Verilog HDL
+Implementation CLA (Carry Look-Ahead Adder) with Verilog HDL
